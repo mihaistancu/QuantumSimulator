@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumSimulator", "QuantumSimulator\QuantumSimulator.csproj", "{9F1E21E1-DED3-4008-A353-3F0257447F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumSimulator.Tests", "QuantumSimulator.Tests\QuantumSimulator.Tests.csproj", "{5998D623-83CB-4CE3-BBB5-0DC41121A82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1E21E1-DED3-4008-A353-3F0257447F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1E21E1-DED3-4008-A353-3F0257447F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1E21E1-DED3-4008-A353-3F0257447F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1E21E1-DED3-4008-A353-3F0257447F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5998D623-83CB-4CE3-BBB5-0DC41121A82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5998D623-83CB-4CE3-BBB5-0DC41121A82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5998D623-83CB-4CE3-BBB5-0DC41121A82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5998D623-83CB-4CE3-BBB5-0DC41121A82F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

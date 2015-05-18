@@ -1,0 +1,5 @@
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator\bin\Debug\QuantumSimulator.dll
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator\bin\Debug\QuantumSimulator.pdb
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator\obj\Debug\QuantumSimulator.dll
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator\obj\Debug\QuantumSimulator.pdb
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator\obj\Debug\QuantumSimulator.csprojResolveAssemblyReference.cache

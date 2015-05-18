@@ -1,0 +1,7 @@
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\bin\Debug\QuantumSimulator.Tests.dll
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\bin\Debug\QuantumSimulator.Tests.pdb
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\bin\Debug\QuantumSimulator.dll
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\bin\Debug\QuantumSimulator.pdb
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\obj\Debug\QuantumSimulator.Tests.csprojResolveAssemblyReference.cache
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\obj\Debug\QuantumSimulator.Tests.dll
+D:\Development\Personal\Quantum\QuantumSimulator\QuantumSimulator.Tests\obj\Debug\QuantumSimulator.Tests.pdb
